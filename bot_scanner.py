@@ -6,7 +6,7 @@ import pandas as pd
 import pandas_ta as ta
 
 # Environment Variables
-TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN = "8898475987-AAFm1acbDHx2x_z1dLIeCVbhr-rZ16TtB_Q")
+TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN = "8898475987:AAFm1acbDHx2x_z1dLIeCVbhr-rZ16TtB_Q")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID"= "8574090814")
 
 # Initialize Binance via CCXT
